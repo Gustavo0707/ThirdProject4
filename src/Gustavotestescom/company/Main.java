@@ -11,7 +11,7 @@ public class Main {
 
    while (a <= b){
 
-   	a+= a * 0.03;
+   	a+= b * 0.03;
    	b+= b * 0.015;
    	year+= 1;
 
